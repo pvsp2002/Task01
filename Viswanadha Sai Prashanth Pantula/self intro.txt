@@ -1,5 +1,8 @@
 Good Morning Everyone,
-My name is Viswanadha Sai Prashanth Pantula, and I am from Visakhapatnam. I completed my B.Tech from Avanthi Institute of Engineering and Technology, Visakhapatnam.
-I have technical expertise in Core Python, Python Libraries, Exploratory Data Analysis, and Supervised Machine Learning. I am adaptable to different work environments and continuously strive to learn and grow professionally.
+My name is Viswanadha Sai Prashanth Pantula, and I am from Visakhapatnam. 
+I have completed my B.Tech from Avanthi Institute of Engineering and Technology, Visakhapatnam.
+I have technical expertise in Core Python, Python Libraries, Exploratory Data Analysis, and Supervised Machine Learning. 
+I am adaptable to different work environments and continuously strive to learn and grow professionally.
 Outside of academics and work, I enjoy singing, listening to, and producing music.
-My career goal is to secure a challenging and rewarding role in Data Science that allows me to enhance my skills and gain valuable experience. In the short term, I aim to deepen my knowledge in Data Science and work towards becoming a Data Scientist.
+My career goal is to secure a challenging and rewarding role in Data Science that allows me to enhance my skills and gain valuable experience. 
+In the short term, I aim to deepen my knowledge in Data Science and work towards becoming a Data Scientist.
